@@ -1,5 +1,5 @@
 import numpy as np
-
+#test
 
 class Configuration:
     def __init__(self, entries):
